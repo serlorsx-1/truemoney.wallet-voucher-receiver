@@ -1,0 +1,1 @@
+# truemoney.wallet-voucher-receiver
